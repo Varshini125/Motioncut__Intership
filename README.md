@@ -1,5 +1,5 @@
- 💼 Virtual Business Card
-
+💼 Virtual Business Card
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Level**: Beginner
 **Project Type**: Single Page (HTML + CSS)
 
@@ -30,6 +30,3 @@ This project is a simple virtual business card built using HTML and CSS. It repr
 
 This beginner-friendly project was created to understand the fundamentals of web development and start building a personal online presence.
 
----
-
-Let me know if you want this in a more styled or professional format (e.g., with badges, license section, etc.).
